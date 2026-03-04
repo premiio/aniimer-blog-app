@@ -14,8 +14,10 @@ This project focuses on layout structure, responsive design, and clean UI organi
 
 ## Features
 
-- Fixed mobile header
-- Dropdown navigation menu
+- Mobile-first layout
+- Responsive design (mobile and desktop support)
+- Fixed header with adaptive navigation
+- Interactive dropdown menus using <details>
 - Responsive grid layout for anime cards
 - Organized folder structure
 - Clean and scalable CSS architecture
